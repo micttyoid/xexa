@@ -1,0 +1,45 @@
+# Drafty mess
+.todo
+idea
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# FreeBSD
+*.core
+
+# LSP
+compile_commands.json
+
+# OSX/macOS
+.DS_Store
+.fseventsd
+.Spotlight-V100
+.Trashes
+
+# Node/Yarn
+node_modules
+dist
+.npmrc
+.yarnrc
+.yarnrc.yaml
+.yarnrc.yml
+yarnrc
+yarnrc.yaml
+yarnrc.yml
+
+# Test-generated
+test/schism/esm/yarn.lock
+test/schism/cjs/yarn.lock
+test/postpub/esm/package.json
+test/postpub/esm/yarn.lock
+test/postpub/cjs/package.json
+test/postpub/cjs/yarn.lock
+
+# Subversion
+.svn
+
+# Vim
+*.swp
